@@ -360,10 +360,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@neshan-maps-platform/react-openlayers@^2.0.15":
-  version "2.0.15"
-  resolved "https://registry.yarnpkg.com/@neshan-maps-platform/react-openlayers/-/react-openlayers-2.0.15.tgz#701811a02e241ad2e1c1a5a1211a2e0b4cdee7fb"
-  integrity sha512-KHOdz6iBxoS2QtbQtdIdfITUQI5j3IH5FP54ubD0yJP4f3ElE01D0iiaKLFVy4WuJeBtz5w1qivuyz28VJwEPQ==
+"@neshan-maps-platform/react-openlayers@^2.0.16":
+  version "2.0.16"
+  resolved "https://registry.yarnpkg.com/@neshan-maps-platform/react-openlayers/-/react-openlayers-2.0.16.tgz#a5c441aa2ca5dbeaf7c79562e3f9dddb4d774f1e"
+  integrity sha512-ycaprXj6Gdgb8ZpqtjmaHxO2tIx5tX6hZX9A9m4BUWy144wfludRgSzP7Zq2Cf9uDtWUolvo9YAvuVPTyW7Nvw==
 
 "@types/prop-types@*":
   version "15.7.5"
