@@ -1,4 +1,4 @@
-# React Neshanmap Openlayers Usage Code
+# React NeshanMaps Openlayers Usage Code
 
 این پروژه به این دلیل ساخته شده تا به شما نحوه استفاده‌ی پایه‌ای از نقشه 
 [react-openlayers نشان](https://www.npmjs.com/package/@neshan-maps-platform/react-openlayers)
